@@ -1,0 +1,5 @@
+c:\users\togu\documents\visual studio 2015\Projects\ECSQuiiz\ECSQuiiz\bin\Release\ECSQuiiz.exe.config
+c:\users\togu\documents\visual studio 2015\Projects\ECSQuiiz\ECSQuiiz\bin\Release\ECSQuiiz.exe
+c:\users\togu\documents\visual studio 2015\Projects\ECSQuiiz\ECSQuiiz\bin\Release\ECSQuiiz.pdb
+c:\users\togu\documents\visual studio 2015\Projects\ECSQuiiz\ECSQuiiz\obj\Release\ECSQuiiz.exe
+c:\users\togu\documents\visual studio 2015\Projects\ECSQuiiz\ECSQuiiz\obj\Release\ECSQuiiz.pdb
